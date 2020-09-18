@@ -12,3 +12,5 @@ while True:
         print(telRegister[namn])
     else:
         print("Namn inte hittat.")
+
+print("Hello")
